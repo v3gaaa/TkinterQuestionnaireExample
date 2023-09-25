@@ -3,8 +3,6 @@ This is a project I did on a software proposal to help children to read more for
 
 
 1.In order to run this program you need to have installed:
-pandas
-tkinter
+pandas & tkinter
 
-2. This program will stop working if you move any files or modify their names.
-3.Please only run the PISA_RUNME file.
+3. Please only run the PISA_RUNME file.
